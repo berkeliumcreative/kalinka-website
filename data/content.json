@@ -1,47 +1,111 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Kalinka",
+  "tagline": "Glendale's Russian table since the dumplings first hit the boil.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Russia on Victory Boulevard.",
+    "subheading": "Hand-folded pelmeni, blini stacked tall, borscht the deep color of beetroot patience. The Glendale table 406 reviews bookmark for a reason.",
+    "ctaText": "Reserve a table",
+    "ctaLink": "tel:7472406868",
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=1600&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "A Russian kitchen, three time zones from home.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Kalinka exists because Glendale needed a Russian table — somewhere dumplings are still folded by hand, where borscht is purple-deep and never thin, where the samovar is for show but also for tea.",
+      "Recipes carried across an ocean, fingers practiced over decades. The kind of restaurant where the cook waves at you on the way out because she remembers what you ordered last Tuesday."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Pelmeni (хой)",
+      "description": "Hand-folded Siberian dumplings, beef and pork. Sour cream, dill, butter. The way the recipe expects.",
+      "price": "$15.50"
+    },
+    {
+      "title": "Borscht (борщ)",
+      "description": "Beet, cabbage, beef brisket, a heaping spoon of sour cream. The bowl that built Russia.",
+      "price": "$11.00"
+    },
+    {
+      "title": "Beef Stroganoff",
+      "description": "Tender beef, mushrooms, sour cream, served over buttered egg noodles. Comfort that hits.",
+      "price": "$24.00"
+    },
+    {
+      "title": "Blini stack",
+      "description": "Thin crepes, salmon roe, sour cream, fresh dill. Four to a plate, none survive a Sunday.",
+      "price": "$18.50"
+    },
+    {
+      "title": "Pirozhki (трое)",
+      "description": "Three hand-pinched buns — beef, cabbage, potato. The walking lunch of every grandmother.",
+      "price": "$12.00"
+    },
+    {
+      "title": "Vodka & infusions",
+      "description": "Honey, horseradish, cherry. Made in-house, served properly cold, never to be sipped.",
+      "price": "$9.00"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Anna K.",
+      "text": "The pelmeni here are the only ones in Los Angeles that taste like home. Hand-folded, proper dough, the kind that makes you call your mother.",
+      "rating": 5
+    },
+    {
+      "name": "Dimitri V.",
+      "text": "Real borscht. Not the watery kind. Deep, beefy, beet-purple. The blini stack with caviar is genuinely transporting.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah M.",
+      "text": "Tucked away gem on Victory. The owners treat you like family. Authentic Russian fare that feels like Babushka's kitchen.",
+      "rating": 5
+    },
+    {
+      "name": "Ivan P.",
+      "text": "Stroganoff exactly right. Tender beef, proper sour cream, noodles that hold the sauce. Vodka selection is impressive.",
+      "rating": 5
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(747) 240-6868",
+    "email": "hello@kalinkaglendale.com",
+    "address": "1714 Victory Blvd, Glendale, California",
+    "mapEmbedQuery": "Kalinka Russian 1714 Victory Blvd Glendale CA",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "Closed",
+      "Tuesday": "11:00 AM – 10:00 PM",
+      "Wednesday": "11:00 AM – 10:00 PM",
+      "Thursday": "11:00 AM – 10:00 PM",
+      "Friday": "11:00 AM – 11:00 PM",
+      "Saturday": "11:00 AM – 11:00 PM",
+      "Sunday": "11:00 AM – 9:00 PM"
+    }
+  },
+  "social": {},
+  "gallery": [
+    "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=1600&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1572441713132-c542fc4fe282?w=1600&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1530469912745-a215c6b256ea?w=1600&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1600&q=80&auto=format&fit=crop"
+  ],
+  "rating": 4.5,
+  "reviewCount": 406,
+  "theme": {
+    "primaryColor": "#6B1F2A",
+    "accentColor": "#B8945E",
+    "fontFamily": "Cormorant_Garamond + Inter"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
-  },
-  "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "title": "Kalinka — Glendale, CA · Authentic Russian Restaurant",
+    "description": "Glendale's Russian table on Victory Blvd. Hand-folded pelmeni, borscht, blini, beef stroganoff. 4.5★ · 406 reviews.",
+    "keywords": [
+      "russian restaurant glendale",
+      "pelmeni glendale",
+      "borscht glendale",
+      "eastern european glendale"
+    ]
   }
 }
